@@ -11,7 +11,6 @@ using UnityEngine.Video;
 using UnityEngine.Rendering;
 
 namespace Panorama180View {
-    [RequireComponent(typeof(Camera))]
     public class Panorama180View : MonoBehaviour
     {
         /**
